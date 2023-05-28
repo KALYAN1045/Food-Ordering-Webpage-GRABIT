@@ -1152,7 +1152,7 @@ header .navbar a:hover{
 
 <section class="popular" id="popular">
 
-    <h1 class="heading"> most <span>popular</span> Tiffins </h1>
+    <h1 class="heading"> most <span>popular</span> Breakfasts </h1>
 
     <div class="box-container">
 
